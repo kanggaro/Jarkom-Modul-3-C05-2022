@@ -73,7 +73,7 @@ visible_hostname Berlint
 ```
 
 
-#### n011
+#### no11
 Agar menghemat penggunaan, akses internet dibatasi dengan kecepatan maksimum 128 Kbps pada setiap host (Kbps = kilobit per second; lakukan pengecekan pada tiap host, ketika 2 host akses internet pada saat bersamaan, keduanya mendapatkan speed maksimal yaitu 128 Kbps)
 
 untuk membatasi bandhwitch, tambahkan file `/etc/squid/acl-bandwidth.conf` lalu tambahkan
